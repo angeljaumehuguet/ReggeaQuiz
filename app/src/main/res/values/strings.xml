@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReggeaQuiz</string>
+    
+    <!-- Menú de navegación -->
+    <string name="menu_game">Jugar</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_settings">Ajustes</string>
+    
+    <!-- Juego -->
+    <string name="game_title">¿Cuánto sabes de Reggaeton?</string>
+    <string name="btn_true">Verdadero</string>
+    <string name="btn_false">Falso</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="game_score">Puntuación: %1$d</string>
+    <string name="time_remaining">Tiempo: %1$d s</string>
+    <string name="game_over">¡Juego Terminado!</string>
+    <string name="final_score">Puntuación Final: %1$d de %2$d</string>
+    <string name="btn_play_again">Jugar de nuevo</string>
+    <string name="correct_answer">¡Correcto!</string>
+    <string name="wrong_answer">Incorrecto</string>
+    
+    <!-- Pantalla de información -->
+    <string name="info_title">Mundo Reggaeton</string>
+    <string name="section_history">Historia del Reggaeton</string>
+    <string name="section_artists">Artistas Legendarios</string>
+    <string name="section_albums">Álbumes Icónicos</string>
+    <string name="section_curiosities">Curiosidades</string>
+    <string name="app_description">ReggeaQuiz es tu juego de preguntas y respuestas sobre el mundo del reggaeton. Pon a prueba tus conocimientos sobre artistas, canciones, álbumes y la historia de este popular género musical.</string>
+    
+    <!-- Ajustes -->
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_questions_per_round">Preguntas por ronda</string>
+    <string name="settings_reset_score">Reiniciar puntuación máxima</string>
+    <string name="settings_sound_effects">Efectos de sonido</string>
+    <string name="settings_background_music">Música de fondo</string>
+    <string name="max_score">Puntuación máxima: %1$d</string>
+    <string name="settings_reset_success">Puntuación máxima reiniciada</string>
+</resources>

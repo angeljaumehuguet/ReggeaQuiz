@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores predeterminados de Android (necesarios) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Tema Caribeño - Colores inspirados en banderas de países de reggaeton -->
+    <color name="colorPrimary">#F9C80E</color>         <!-- Amarillo de la bandera de Colombia -->
+    <color name="colorPrimaryDark">#CF1020</color>     <!-- Rojo de la bandera de Puerto Rico -->
+    <color name="colorAccent">#008D36</color>          <!-- Verde de la bandera de Jamaica -->
+    
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorText">#333333</color>
+    <color name="colorTextLight">#FFFFFF</color>
+    
+    <color name="colorCorrect">#43A047</color>         <!-- Verde para respuestas correctas -->
+    <color name="colorIncorrect">#E53935</color>       <!-- Rojo para respuestas incorrectas -->
+    
+    <!-- Colores para el selector de estado del menú de navegación inferior -->
+    <color name="nav_item_selected">#FFFFFF</color>
+    <color name="nav_item_unselected">#80FFFFFF</color>
+    
+    <!-- Colores degradados para el fondo de la aplicación -->
+    <color name="gradient_start">#F9C80E</color>
+    <color name="gradient_center">#FFB94E</color>
+    <color name="gradient_end">#008D36</color>
+</resources>

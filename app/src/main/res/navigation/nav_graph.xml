@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/gameFragment">
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.example.reggeaquiz.GameFragment"
+        android:label="fragment_game"
+        tools:layout="@layout/fragment_game" />
+
+    <fragment
+        android:id="@+id/infoFragment"
+        android:name="com.example.reggeaquiz.InfoFragment"
+        android:label="fragment_info"
+        tools:layout="@layout/fragment_info" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.reggeaquiz.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

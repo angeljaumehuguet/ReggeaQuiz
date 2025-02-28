@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Outer ring -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M50,2 A48,48 0 1,1 50,98 A48,48 0 1,1 50,2" />
+
+    <!-- Reflective surface -->
+    <path
+        android:fillColor="#333333"
+        android:pathData="M50,7 A43,43 0 1,1 50,93 A43,43 0 1,1 50,7" />
+
+    <!-- Inner ring -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M50,20 A30,30 0 1,1 50,80 A30,30 0 1,1 50,20" />
+
+    <!-- Label -->
+    <path
+        android:fillColor="@color/colorPrimary"
+        android:pathData="M50,25 A25,25 0 1,1 50,75 A25,25 0 1,1 50,25" />
+
+    <!-- Center hole -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M50,45 A5,5 0 1,1 50,55 A5,5 0 1,1 50,45" />
+</vector>
